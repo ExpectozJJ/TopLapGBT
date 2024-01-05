@@ -12,7 +12,7 @@ There are five folders after extracted.
     * scap
     * **SPIDER2_local**
     * mibpb5 
-    * MS_Intersection
+    * MS_Intersection 
 * **dataset**
     * alphafold_pdb.zip (at root directory)
 * **mutsol**
