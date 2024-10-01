@@ -10,6 +10,7 @@ This code is for Integration of persistent Laplacian and pre-trained transformer
 - pytorch-cuda              11.7
 - scikit-learn              1.3.2
 - python                    3.10.12
+- Biopython                 1.80
 - Softwares to be installed for ./bin folder (See README at bin)
 
 ## File description
