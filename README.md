@@ -1,9 +1,20 @@
 # Integration of persistent Laplacian and pre-trained transformer for protein solubility changes upon mutation
 This code is for Integration of persistent Laplacian and pre-trained transformer for protein solubility changes upon mutation. 
 ******
+
+## Python Environment needed
+- fair-esm                  2.0.0
+- numpy                     1.23.5
+- scipy                     1.11.3
+- torch                     2.1.1
+- pytorch-cuda              11.7
+- scikit-learn              1.3.2
+- python                    3.10.12
+- Softwares to be installed for ./bin folder (See README at bin)
+
 ## File description
 There are five folders after extracted. 
-* **bin** (see README in bin folder)
+* **bin** 
     * jackal.dir
     * jackal_64bit
     * PPIprepare
