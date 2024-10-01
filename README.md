@@ -6,8 +6,6 @@ This code is for Integration of persistent Laplacian and pre-trained transformer
 - fair-esm                  2.0.0
 - numpy                     1.23.5
 - scipy                     1.11.3
-- torch                     2.1.1
-- pytorch-cuda              11.7
 - scikit-learn              1.3.2
 - python                    3.10.12
 - Biopython                 1.80
