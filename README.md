@@ -3,7 +3,7 @@ This code is for Integration of persistent Laplacian and pre-trained transformer
 ******
 ## File description
 There are five folders after extracted. 
-* **bin**
+* **bin** (see README in bin folder)
     * jackal.dir
     * jackal_64bit
     * PPIprepare
